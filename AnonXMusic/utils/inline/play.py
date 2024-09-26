@@ -64,7 +64,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="✨ ​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​ ✨", url=f"https://t.me/Dilll_se"
             ),
             InlineKeyboardButton(
-                text="💫 सहायक समूह 💫", url=f"https://t.me/starrrkinngg"
+                text="💫 ​🇨​​🇭​​🇦​​🇳​​🇳​​🇪​​🇱​ 💫", url=f"https://t.me/starrrkinngg"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -76,10 +76,10 @@ def stream_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✨ सेवक ✨", url=f"https://t.me/Ishq_Sukoon"
+                text="✨ 🇨​​🇭​​🇦​​🇳​​🇳​​🇪​​🇱​ ✨", url=f"https://t.me/Ishq_Sukoon"
             ),
             InlineKeyboardButton(
-                text="💫 सहायक समूह 💫", url=f"https://t.me/ChhotiSiDuniya"
+                text="💫 ​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​ 💫", url=f"https://t.me/ChhotiSiDuniya"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
